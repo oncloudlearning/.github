@@ -10,7 +10,7 @@ Odyssey is our practical engineering experience programme. Participants move bey
 
 ### Odyssey: GroundZero
 
-GroundZero is our foundations pathway. Participants develop essential engineering workflows and learn through guided tasks involving Linux, networking, Git, command-line tools, troubleshooting, and realistic project environments.
+GroundZero is our foundations pathway. Participants develop essential engineering workflows and learn through guided tasks involving Linux, Windows Server, networking, Git, command-line tools, troubleshooting, and realistic project environments.
 
 ### Learn through realistic engineering work
 
